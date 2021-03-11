@@ -1,0 +1,13 @@
+node_modules
+.idea
+.vscode
+build
+logs
+typings
+yarn.lock
+typings
+db.json
+.env
+yarn-error.log
+.DS_Store
+mysql_data
